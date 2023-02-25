@@ -136,10 +136,7 @@ namespace Praktikum7
 
                 sw.Close();
             }
-            catch (Exception e)
-            {
-                Console.WriteLine("Exception: " + e.Message);
-            }
+            catch (Exception e) { Console.WriteLine("Exception: " + e.Message); }
         }
 
         public void CompareFiles()
@@ -167,7 +164,6 @@ namespace Praktikum7
             const string PATH_FILE_DIRECTIVE = @"C:\\Users\\voron\\OneDrive\\Рабочий стол\\SemenovPraktikum7\\SemenovPraktikum7\Files";
             CookBook dish1 = new CookBook(PATH_DISHES_LIST);
             SomeFile asd = new SomeFile(PATH_FILE_DIRECTIVE);
-            asd.CompareFiles();
         }
     }
 }
