@@ -1,0 +1,8 @@
+C:\Users\voron\OneDrive\Рабочий стол\SemenovPraktikum7\SemenovPraktikum7\bin\Debug\SemenovPraktikum7.exe.config
+C:\Users\voron\OneDrive\Рабочий стол\SemenovPraktikum7\SemenovPraktikum7\bin\Debug\SemenovPraktikum7.exe
+C:\Users\voron\OneDrive\Рабочий стол\SemenovPraktikum7\SemenovPraktikum7\bin\Debug\SemenovPraktikum7.pdb
+C:\Users\voron\OneDrive\Рабочий стол\SemenovPraktikum7\SemenovPraktikum7\obj\Debug\SemenovPraktikum7.csproj.AssemblyReference.cache
+C:\Users\voron\OneDrive\Рабочий стол\SemenovPraktikum7\SemenovPraktikum7\obj\Debug\SemenovPraktikum7.csproj.SuggestedBindingRedirects.cache
+C:\Users\voron\OneDrive\Рабочий стол\SemenovPraktikum7\SemenovPraktikum7\obj\Debug\SemenovPraktikum7.csproj.CoreCompileInputs.cache
+C:\Users\voron\OneDrive\Рабочий стол\SemenovPraktikum7\SemenovPraktikum7\obj\Debug\SemenovPraktikum7.exe
+C:\Users\voron\OneDrive\Рабочий стол\SemenovPraktikum7\SemenovPraktikum7\obj\Debug\SemenovPraktikum7.pdb
